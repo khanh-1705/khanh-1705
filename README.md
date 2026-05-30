@@ -75,16 +75,16 @@ I'm a **Computer Science student at the University of New Brunswick** (graduatin
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Frameworks & Libraries
+### Full Stack Development Tools 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### AI Tools 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 
 
@@ -98,10 +98,7 @@ I'm a **Computer Science student at the University of New Brunswick** (graduatin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9B59B6&icon_color=9B59B6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9B59B6"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khanh-1705&theme=tokyonight&hide_border=true&background=0d1117&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" />
 
 </div>
 
@@ -115,8 +112,8 @@ I'm a **Computer Science student at the University of New Brunswick** (graduatin
    GPA: 4.0 / 4.3
 
 📚 Relevant Coursework:
-   Software Engineering · Information Security · Data Structures & Algorithms
-   Databases · Net-centric Computing
+   Introduction to Software Engineering · Information Security · Data Structures & Algorithms
+   Introduction to Databases · Net-centric Computing · Machine Level Programming
 
 🏅 Honors:
    Dean's List 2024–2025 & 2025–2026 · John Khoury Scholarship
@@ -130,10 +127,10 @@ I'm a **Computer Science student at the University of New Brunswick** (graduatin
 |---|---|
 | 👑 President | UNB Computer Science Association |
 | 🏆 VP Competition | UNB Programming Club |
-| 🤝 Peer Mentor | UNB Faculty of CS Undergraduate Program |
-| 📢 Student Ambassador | UNB Faculty of Computer Science |
+| 🤝 Peer Mentor | UNB Faculty of Computer Science Undergraduate Program |
+| 📢 Domestic Student Ambassador | UNB Faculty of Computer Science |
 | 🏛️ CS Councillor | UNB Student Union |
-| 💰 Treasurer | UNB Women's Centre & WiCyS Chapter |
+| 💰 Treasurer | University Women's Centre & WiCyS UNB Student Chapter |
 
 ---
 
